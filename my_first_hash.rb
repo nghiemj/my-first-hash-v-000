@@ -1,5 +1,5 @@
 def my_hash
-my_hash = ["I"]
+my_hash = ["I" => "great"]
 
   
 end
